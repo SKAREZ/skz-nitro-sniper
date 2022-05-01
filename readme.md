@@ -8,9 +8,14 @@
 
 <p align="center">
 <img alt="Version" src="https://img.shields.io/badge/Unreleased-505050?style=for-the-badge&logo=github">
-<img alt="Code" src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=JavaScript">
+<img alt="Code" src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=JavaScript">
 <a href="https://discord.gg/sS7X8cPt62">
 <img alt="Discord" src="https://img.shields.io/badge/DISCORD-304090?style=for-the-badge&logo=Discord&logoColor=white">
+</a>
+</p>
+<p align="center">
+<a href="https://discord.gg/sS7X8cPt62">
+<img alt="User" src="https://img.shields.io/badge/MADE WITH ❤ BY SKAREZ-FF5050?style=for-the-badge">
 </a>
 </p>
 
