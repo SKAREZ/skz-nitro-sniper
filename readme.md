@@ -18,10 +18,10 @@
 
 # 🔗 **Links**
   
-> 📥 [Downloads](https://github.com/skarez/skz-nitro-sniper/)
+> 📥 [Downloads](https://github.com/SKAREZ/skz-nitro-sniper/releases)
 
 > 💲 [Donate](https://paypal.me/skz54/)
 
-> 📜 [Changelogs](https://github.com/skarez/skz-nitro-sniper/)
+> 📜 [Changelogs](https://github.com/SKAREZ/skz-nitro-sniper/issues)
 
 > 📁 [Requirements](https://github.com/skarez/skz-nitro-sniper/)
