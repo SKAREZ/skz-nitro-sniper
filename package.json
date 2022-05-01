@@ -15,10 +15,10 @@
       "chalk": "4.1.2",
       "discord.js": "skarez/discord.js#master",
       "discord.js-light": "skarez/discord.js-light#master",
-      "dotenv": "github:skarez/dotenv#feat-multiline",
+      "dotenv": "github:andreialecu/dotenv#feat-multiline",
       "express": "^4.17.1",
       "json5": "^2.2.0",
       "moment": "^2.29.1",
-      "phin": "github:skarez/phin"
+      "phin": "github:localip/phin"
    }
 }
