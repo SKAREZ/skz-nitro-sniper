@@ -7,10 +7,10 @@
 </h3>
 
 <p align="center">
-<img alt="Version" src="https://img.shields.io/badge/Unreleased-505050?style=for-the-badge&logo=github">
-<img alt="Code" src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=JavaScript">
+<img alt="Version" src="https://img.shields.io/badge/VERSION-ALPHA 1.0.0-FF5EA1?style=for-the-badge&logo=github&logoColor=000000">
+<img alt="Code" src="https://img.shields.io/badge/SOURCE-JAVASCRIPT-000000?style=for-the-badge&logo=JavaScript&logoColor=F2F542">
 <a href="https://discord.gg/sS7X8cPt62">
-<img alt="Discord" src="https://img.shields.io/badge/DISCORD-304090?style=for-the-badge&logo=Discord&logoColor=white">
+<img alt="Discord" src="https://img.shields.io/badge/DISCORD-JOIN-304090?style=for-the-badge&logo=Discord&logoColor=FFFFFF">
 </a>
 </p>
 <p align="center">
