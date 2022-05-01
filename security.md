@@ -1,4 +1,4 @@
-# 🔐 Security Policy
+# 🔐 Security Checkup
 
 
 ### 📚 Version history
