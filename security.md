@@ -2,9 +2,22 @@
 
 
 ### 📚 Version history
-| Version | Supported |
+| Version | Safe |
 | ------  | --------- |
 | 1.0.0    | ✔        |
+
+### Descriptions:
+
+<p>
+✔ = Yes
+</p>
+
+<p>
+❌ = No
+</p>
+<p>
+〰 = Unknown
+</p>
 
 ---
 
