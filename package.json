@@ -1,0 +1,24 @@
+{
+   "name": "skz-nitro-sniper",
+   "version": "1.0.0",
+   "main": "src/index.js",
+   "license": "Unlicensed",
+   "scripts": {
+      "start": "node ."
+   },
+   "engines": {
+      "node": "14.x"
+   },
+   "dependencies": {
+      "@discordjs/uws": "^10.149.0",
+      "@skyra/timestamp": "^1.0.0",
+      "chalk": "4.1.2",
+      "discord.js": "skarez/discord.js#master",
+      "discord.js-light": "skarez/discord.js-light#master",
+      "dotenv": "github:skarez/dotenv#feat-multiline",
+      "express": "^4.17.1",
+      "json5": "^2.2.0",
+      "moment": "^2.29.1",
+      "phin": "github:skarez/phin"
+   }
+}
