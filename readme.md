@@ -14,7 +14,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://discord.gg/sS7X8cPt62">
+<a href="https://twitter.com/SKAREZ_Z">
 <img alt="User" src="https://img.shields.io/badge/MADE WITH ❤ BY SKAREZ-FF5050?style=for-the-badge">
 </a>
 </p>
