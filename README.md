@@ -23,10 +23,10 @@
 
 # 🔗 **Links**
   
-> 📥 [Installation](https://skarez.gitbook.io/wiki/)
+> 📥 [Installation](https://skarez.gitbook.io/wiki/introduction/english/installation)
 
 > 💲 [Donate](https://paypal.me/skz54/)
 
 > 📚 [Wiki](https://skarez.gitbook.io/wiki/)
 
-> 📜 [Changelogs](https://app.gitbook.com/s/kA6p3lRuAw2dMM4lw9pW/)
+> 📜 [Changelogs](https://skarez.gitbook.io/wiki/introduction/english/changelogs)
