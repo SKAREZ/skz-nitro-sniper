@@ -25,7 +25,7 @@
   
 > 📥 [Installation](https://skarez.gitbook.io/wiki/introduction/english/installation)
 
-> 💲 [Donate](https://paypal.me/skz54/)
+> 💲 [Donate](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 > 📚 [Wiki](https://skarez.gitbook.io/wiki/)
 
