@@ -21,6 +21,10 @@
 
 ---
 
+<h1 align="center">
+Project suspended
+</h1>
+
 # 🔗 **Links**
   
 > 📥 [Installation](https://skarez.gitbook.io/wiki/introduction/english/installation)
